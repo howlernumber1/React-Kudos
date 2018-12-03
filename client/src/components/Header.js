@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import  { faUserAlt }  from '@fortawesome/free-solid-svg-icons'
 
 const Header = () => (<div >
-  <h3 className="title-header">Tiny Improvements</h3>
+  <h3 className="title-header">Give Kudo's!</h3>
   <FontAwesomeIcon icon={faUserAlt} size="2x" />
   <hr/>
 </div>);
